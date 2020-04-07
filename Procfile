@@ -1,0 +1,1 @@
+web: gunicorn waves.wsgi --log-file -
